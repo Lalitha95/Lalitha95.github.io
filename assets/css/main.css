@@ -270,7 +270,7 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px #c8cccf;
+		border-bottom: solid 1px #646464;
 		margin: 3em 0;
 	}
 
@@ -366,7 +366,7 @@
 		-ms-appearance: none;
 		appearance: none;
 		border-radius: 4px;
-		border: solid 1px #c8cccf;
+		border: solid 1px #646464;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -467,7 +467,7 @@
 			input[type="checkbox"] + label:before,
 			input[type="radio"] + label:before {
 				border-radius: 4px;
-				border: solid 1px #c8cccf;
+				border: solid 1px #646464;
 				content: '';
 				display: inline-block;
 				height: 1.65em;
@@ -567,7 +567,7 @@
 		}
 
 			ul.alt li {
-				border-top: solid 1px #c8cccf;
+				border-top: solid 1px #646464;
 				padding: 0.5em 0;
 			}
 
@@ -732,7 +732,7 @@
 				width: 3.75em;
 				height: 3.75em;
 				border-radius: 100%;
-				border: solid 1px #c8cccf;
+				border: solid 1px #646464;
 				line-height: 3.75em;
 				overflow: hidden;
 				text-align: center;
@@ -771,7 +771,7 @@
 				}
 
 				ul.icons li a:hover {
-					border-color: #ff7496;
+					border-color: #4d92af;
 				}
 
 		@media screen and (max-width: 480px) {
@@ -803,7 +803,7 @@
 		padding: 0 1.5em;
 		background-color: transparent;
 		border-radius: 4px;
-		border: solid 1px #c8cccf;
+		border: solid 1px #646464;
 		color: #414f57 !important;
 		cursor: pointer;
 		text-align: center;
@@ -921,7 +921,7 @@
 				width: calc(100% + 6em);
 				height: 1px;
 				z-index: -1;
-				background: #c8cccf;
+				background: #646464;
 			}
 
 		@media screen and (max-width: 480px) {
